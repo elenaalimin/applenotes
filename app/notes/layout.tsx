@@ -3,7 +3,6 @@ import { Inter as FontSans } from "next/font/google";
 import { cn } from "@/lib/utils";
 import { siteConfig } from "@/config/site";
 import SidebarLayout from "@/components/sidebar-layout";
-import { Analytics } from "@vercel/analytics/react";
 import { ThemeProvider } from "@/components/theme-provider";
 import { foodLists } from "@/lib/food-lists-data";
 import "./globals.css";
@@ -52,7 +51,6 @@ export default function RootLayout({
           disableTransitionOnChange
         >
           <SidebarLayout foodLists={lists}>
-            <Analytics />
             {children}
           </SidebarLayout>
         </ThemeProvider>
