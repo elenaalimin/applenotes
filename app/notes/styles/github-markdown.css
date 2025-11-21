@@ -93,7 +93,7 @@
 
 .markdown-body .task-list-item > p a {
   white-space: nowrap;
-  display: inline-block;
+  display: inline;
 }
 
 .markdown-body .task-list-item input[type="checkbox"] {

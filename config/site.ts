@@ -1,5 +1,5 @@
 export const siteConfig = {
   title: "Chomped Up Notes",
-  url: "https://alanagoyal.com",
+  url: "https://applenotes-chompedup.vercel.app/notes",
 };
 

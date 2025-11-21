@@ -2,6 +2,17 @@ import { useCallback } from "react";
 import { FoodListItem } from "./food-list-item";
 import { FoodList } from "@/lib/types";
 
+function previewContent(content: string): string {
+  // Get only the first line (before first newline)
+  const firstLine = content.split('\n')[0];
+  
+  return firstLine
+    .replace(/\*\*([^*]+)\*\*/g, '$1')
+    .replace(/\*([^*]+)\*/g, '$1')
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 interface FoodListSidebarContentProps {
   groupedFoodLists: Record<string, FoodList[]>;
   selectedFoodListSlug: string | null;
@@ -73,8 +84,8 @@ export function FoodListSidebarContent({
                 <span className="text-xs font-semibold uppercase tracking-wide text-muted-foreground flex items-center gap-1">
                   {item.emoji} {item.title}
                 </span>
-                <span className="text-sm text-foreground/80 dark:text-white/80 line-clamp-2">
-                  {item.content}
+                <span className="text-sm text-foreground/80 dark:text-white/80 line-clamp-1">
+                  {previewContent(item.content)}
                 </span>
               </button>
             );
