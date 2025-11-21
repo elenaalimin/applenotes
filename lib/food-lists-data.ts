@@ -16,10 +16,10 @@ export const foodLists: FoodList[] = [
 
 **what is chompedup?**
 
-* creative outlet for good food (check out [chompeddown](https://www.instagram.com/chompeddown) , the villain alter ego)
+* creative outlet for good food (check out [chompeddown](https://www.instagram.com/chompeddown), the villain alter ego)
 * started during covid quarantine because i had too many pictures
 * fun fact: started out as a book review account!
-* [instagram](https://www.instagram.com/chompedup) , [tiktok](https://www.tiktok.com/@chompedup) (~60K likes)
+* [instagram](https://www.instagram.com/chompedup), [tiktok](https://www.tiktok.com/@chompedup)(~60K likes)
 * website predecessor [notion page](https://elenaalimin.notion.site/Chomped-Up-16c7cf019680471c8885410d3bb04ceb?source=copy_link) 
 
 **currently:**
@@ -35,7 +35,7 @@ export const foodLists: FoodList[] = [
 * interned at [pimco](https://www.pimco.com/us/en) and understood how mortgages were traded
 * interned at [intudo](https://intudovc.com/manifesto/) and gained an understanding of indonesia’s startup scene
 * improved customer-facing shipping fee estimates through excel data automation at my [shopee](https://shopee.com/) internship
-* studied economics & entrepreneurship at [ucla](https://www.ucla.edu/) , grew so much
+* studied economics & entrepreneurship at [ucla](https://www.ucla.edu/), grew so much
 * born and raised in jakarta, indonesia!
 
 
@@ -114,7 +114,7 @@ thoughts are subjective, restaurants have off-days, and the opinion of some girl
 
 - [x] [bangkok supper club](https://www.google.com/maps/search/?api=1&query=bangkok+supper+club+new+york+city)  - pork jowl fried rice, pandan pudding (upscale thai)
 - [x] [nubiani](https://www.google.com/maps/search/?api=1&query=nubiani+new+york+city)  - package for 3 (kbbq)
-- [x] chinatown food crawl (bring cash) - [mei lai wah](https://www.google.com/maps/search/?api=1&query=mei+lai+wah+new+york+city) , [wah fung](https://www.google.com/maps/search/?api=1&query=wah+fung+new+york+city) , [wang lao ji museum](https://www.google.com/maps/search/?api=1&query=wang+lao+ji+museum+new+york+city)
+- [x] chinatown food crawl (bring cash) - [mei lai wah](https://www.google.com/maps/search/?api=1&query=mei+lai+wah+new+york+city), [wah fung](https://www.google.com/maps/search/?api=1&query=wah+fung+new+york+city), [wang lao ji museum](https://www.google.com/maps/search/?api=1&query=wang+lao+ji+museum+new+york+city)
 - [x] [adel's famous halal food](https://www.google.com/maps/search/?api=1&query=adel%27s+famous+halal+food+new+york+city)  - use grubhub if you don't wanna wait
 - [x] [prince street pizza](https://www.google.com/maps/search/?api=1&query=prince+street+pizza+new+york+city) - honey vodka slice 
 - [x] [essa bagel](https://www.google.com/maps/search/?api=1&query=essa+bagel+new+york+city) - lox bagel
@@ -146,15 +146,15 @@ thoughts are subjective, restaurants have off-days, and the opinion of some girl
 
 **bars:**
 
-- [x] [double chicken please](https://www.google.com/maps/search/?api=1&query=double+chicken+please+new+york+city) (the coop) - almost every drink on the menu fire especially key lime pie, popcorn chicken yum
+- [x] [double chicken please](https://www.google.com/maps/search/?api=1&query=double+chicken+please+new+york+city)(the coop) - almost every drink on the menu fire especially key lime pie, popcorn chicken yum
 - [x] [angel's share](https://www.google.com/maps/search/?api=1&query=angel%27s+share+new+york+city) - walk-in only, painted paradise one of my favs ever
 - [x] [george bang bang](https://www.google.com/maps/search/?api=1&query=george+bang+bang+new+york+city) - the chloe is so yum, big groups friendly
-- [x] [attaboy](https://www.google.com/maps/search/?api=1&query=attaboy+new+york+city) (speakeasy) - walk-in only, spirit-forward and no menu
+- [x] [attaboy](https://www.google.com/maps/search/?api=1&query=attaboy+new+york+city)(speakeasy) - walk-in only, spirit-forward and no menu
 - [x] [experimental cocktail club](https://www.google.com/maps/search/?api=1&query=experimental+cocktail+club+new+york+city) - milk money is good
 - [x] [clemente](https://www.google.com/maps/search/?api=1&query=clemente+new+york+city)  - ambiance, drinks p good overall
 - [x] [overstory](https://www.google.com/maps/search/?api=1&query=overstory+new+york+city) - yummy drinks
 - [x] [mace](https://www.google.com/maps/search/?api=1&query=mace+new+york+city) - walk-in able even on a weekend, solid drinks
-- [x] [sip & guzzle](https://www.google.com/maps/search/?api=1&query=sip+&+guzzle+new+york+city) (sip) - yummy drinks, expensive tho
+- [x] [sip & guzzle](https://www.google.com/maps/search/?api=1&query=sip+&+guzzle+new+york+city)(sip) - yummy drinks, expensive tho
 - [x] [so&so's neighborhood piano bar](https://www.google.com/maps/search/?api=1&query=so&so%27s+neighborhood+piano+bar+new+york+city) - drinks just ok, but the piano chill vibe!!
 
 
@@ -234,7 +234,7 @@ thoughts are subjective, restaurants have off-days, and the opinion of some girl
 - [x] [madeo](https://www.google.com/maps/search/?api=1&query=madeo+los+angeles) - good classic italian, italian roommate rec
 - [x] [community goods](https://www.google.com/maps/search/?api=1&query=community+goods+los+angeles) - a must in LA
 - [x] [majordomo](https://www.google.com/maps/search/?api=1&query=majordomo+los+angeles) - unique fusion food, bing and pre-order the meat
-- [x] [pigya](https://www.google.com/maps/search/?api=1&query=pigya+los+angeles) (with the set) - such a value
+- [x] [pigya](https://www.google.com/maps/search/?api=1&query=pigya+los+angeles)(with the set) - such a value
 - [x] [yup dduk](https://www.google.com/maps/search/?api=1&query=yup+dduk+los+angeles) - idk who does tteokbokki better
 - [x] [izakaya osen](https://www.google.com/maps/search/?api=1&query=izakaya+osen+los+angeles) - chirashi with brown rice omg
 - [x] [hangari kalguksu](https://www.google.com/maps/search/?api=1&query=hangari+kalguksu+los+angeles) - kalguksu so good, bossam better
@@ -275,7 +275,7 @@ thoughts are subjective, restaurants have off-days, and the opinion of some girl
 - [x] [damo tea house](https://www.google.com/maps/search/?api=1&query=damo+tea+house+los+angeles) - hojicha and matcha
 - [x] [yeem's coffee](https://www.google.com/maps/search/?api=1&query=yeem%27s+coffee+los+angeles) - matcha, but coffee also not bad
 - [x] [camel coffee](https://www.google.com/maps/search/?api=1&query=camel+coffee+los+angeles) - matcha is gas
-- [x] [maru coffee bar](https://www.google.com/maps/search/?api=1&query=maru+coffee+bar+beverly+hills) (beverly hills) - i don't drink coffee but the drink in the small cup… so good
+- [x] [maru coffee bar](https://www.google.com/maps/search/?api=1&query=maru+coffee+bar+beverly+hills)(beverly hills) - i don't drink coffee but the drink in the small cup… so good
 
 
 **honorable mentions (less generalist palette):**
@@ -512,11 +512,10 @@ the want to try list is clearly a lot longer
 **crowdsourced (thank you!):**
 
 - [ ] bakmie fuk
-- [ ] bakmi miyaho
 - [ ] bakmi rica kejaksaan bandung
 - [ ] bakmi gading permai kelapa gading
 - [ ] bakmi bule mangga besar 
-- [ ] bakmi khek pulí
+- [ ] bakmi khek pluit
 - [ ] bakmi gm
 - [ ] demie
 - [ ] bakmi alip
