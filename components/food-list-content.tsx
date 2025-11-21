@@ -73,14 +73,14 @@ const renderMarkdown = (text: string) => {
       );
     }
     
-    // Handle bullet points - regular bullet style
+    // Handle bullet points - regular bullet style (match desktop)
     if (line.trim().startsWith('*') && !line.startsWith('**')) {
       const content = line.trim().slice(1).trim();
       const displayContent = parseLinks(content);
       
       return (
-        <li key={i} className="mb-2 ml-6 list-disc">
-          <span>{displayContent}</span>
+        <li key={i} className="mb-2" style={{ paddingLeft: '2em', listStyleType: 'disc' }}>
+          {displayContent}
         </li>
       );
     }
