@@ -74,20 +74,18 @@
 
 .markdown-body .task-list-item {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   margin-bottom: 0.5em;
 }
 
 .markdown-body .task-list-item input[type="checkbox"] {
   margin-right: 0.5rem;
+  margin-top: 0.1875rem;
   appearance: none;
   width: 1.125rem;
   height: 1.125rem;
   border: 1px solid #6a737d;
   border-radius: 50%; 
-  vertical-align: top;
-  position: relative;
-  top: 0.1875rem;
   cursor: pointer;
   flex-shrink: 0;
 }

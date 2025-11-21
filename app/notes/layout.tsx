@@ -16,6 +16,17 @@ export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: siteConfig.title,
   description: siteConfig.title,
+  openGraph: {
+    title: siteConfig.title,
+    description: siteConfig.title,
+    images: ['/og-image.png'],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: siteConfig.title,
+    description: siteConfig.title,
+    images: ['/og-image.png'],
+  },
 };
 
 export default function RootLayout({

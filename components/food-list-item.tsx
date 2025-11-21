@@ -14,15 +14,14 @@ import { getDisplayDateByCategory } from "@/lib/food-list-utils";
 import { Dispatch, SetStateAction } from "react";
 
 function previewContent(content: string): string {
-  return content
+  // Get only the first line (before first newline)
+  const firstLine = content.split('\n')[0];
+  
+  return firstLine
     .replace(/\*\*([^*]+)\*\*/g, '$1')
     .replace(/\*([^*]+)\*/g, '$1')
-    .replace(/\n+/g, " ")
     .replace(/\s+/g, " ")
-    .trim()
-    .split(" ")
-    .slice(0, 10)
-    .join(" ");
+    .trim();
 }
 
 interface FoodListItemProps {
