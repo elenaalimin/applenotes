@@ -108,7 +108,6 @@ thoughts are subjective, restaurants have off-days, and the opinion of some girl
 
 [gmaps link](https://maps.app.goo.gl/r4yjaDWfs1REBXYx9) 
 
-
 **must-eats:**
 
 - [x] [bangkok supper club](https://www.google.com/maps/search/?api=1&query=bangkok+supper+club+new+york+city)  - pork jowl fried rice, pandan pudding (upscale thai)
@@ -218,9 +217,7 @@ thoughts are subjective, restaurants have off-days, and the opinion of some girl
 
 (this is a long one)
 
-
 [gmaps link](https://maps.app.goo.gl/jGoCHZCocAbhY5Az5) 
-
 
 **must-eats:**
 
@@ -366,7 +363,6 @@ as a regular visitor, this is the list i live by to make sure my culinary needs 
 
 [gmaps link](https://maps.app.goo.gl/xXVHbDw8WGASxM5N6) 
 
-
 **must-eats (in order of priority):**
 
 - [x] [chef pin](https://www.google.com/maps/search/?api=1&query=chef+pin+vancouver) - has off days, but mala is so good + udon pasta
@@ -406,7 +402,6 @@ the want to try list is clearly a lot longer
 
 
 [collective bay area gmaps link](https://maps.app.goo.gl/BhuZKHEi55utZqyG9) 
-
 
 **what made an impression:**
 

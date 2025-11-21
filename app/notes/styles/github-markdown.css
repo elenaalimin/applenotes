@@ -67,6 +67,23 @@
   margin-bottom: 16px;
 }
 
+.markdown-body ul li::marker {
+  color: white;
+}
+
+.dark .markdown-body ul li::marker {
+  color: white;
+}
+
+/* Ensure text color is correct while marker is white */
+.markdown-body ul li {
+  color: inherit;
+}
+
+.markdown-body ul li a {
+  color: #e2a727;
+}
+
 .markdown-body ul.contains-task-list {
   list-style-type: none;
   padding-left: 0;
