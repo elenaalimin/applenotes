@@ -1,56 +1,33 @@
-import { cache } from "react";
-import Note from "@/components/note";
-import { createClient as createServerClient } from "@/utils/supabase/server";
-import { createClient as createBrowserClient } from "@/utils/supabase/client";
+import FoodList from "@/components/food-list";
+import { foodLists } from "@/lib/food-lists-data";
 import { redirect } from "next/navigation";
 import { Metadata } from "next";
-import { Note as NoteType } from "@/lib/types";
+import { FoodList as FoodListType } from "@/lib/types";
 
-// Enable ISR with a reasonable revalidation period for public notes
-export const revalidate = 86400; // 24 hours
-
-// Cached function to fetch a note by slug - eliminates duplicate fetches
-const getNote = cache(async (slug: string) => {
-  const supabase = createServerClient();
-  const { data: note } = await supabase.rpc("select_note", {
-    note_slug_arg: slug,
-  }).single() as { data: NoteType | null };
-  return note;
-});
-
-// Dynamically determine if this is a user note
+// Generate static params for all food lists
 export async function generateStaticParams() {
-  const supabase = createBrowserClient();
-  const { data: posts } = await supabase
-    .from("notes")
-    .select("slug")
-    .eq("public", true);
-
-  return posts!.map(({ slug }) => ({
-    slug,
+  return foodLists.map((list) => ({
+    slug: list.slug,
   }));
 }
-
-// Use dynamic rendering for non-public notes
-export const dynamicParams = true;
 
 export async function generateMetadata({
   params,
 }: {
   params: { slug: string };
 }): Promise<Metadata> {
-  const slug = params.slug.replace(/^notes\//, '');
-  const note = await getNote(slug);
+  const slug = params.slug;
+  const foodList = foodLists.find((list) => list.slug === slug);
 
-  if (!note) {
-    return { title: "Note not found" };
+  if (!foodList) {
+    return { title: "Food List not found" };
   }
 
-  const title = note.title || "new note";
-  const emoji = note.emoji || "👋🏼";
+  const title = foodList.title || "Food List";
+  const emoji = foodList.emoji || "🍽️";
 
   return {
-    title: `alana goyal | ${title}`,
+    title: `Food Lists | ${title}`,
     openGraph: {
       images: [
         `/notes/api/og/?title=${encodeURIComponent(title)}&emoji=${encodeURIComponent(
@@ -61,21 +38,21 @@ export async function generateMetadata({
   };
 }
 
-export default async function NotePage({
+export default function FoodListPage({
   params,
 }: {
   params: { slug: string };
 }) {
-  const slug = params.slug.replace(/^notes\//, '');
-  const note = await getNote(slug);
+  const slug = params.slug;
+  const foodList = foodLists.find((list) => list.slug === slug);
 
-  if (!note) {
-    return redirect("/notes/error");
+  if (!foodList) {
+    return redirect("/notes/michelin");
   }
 
   return (
     <div className="w-full min-h-dvh p-3">
-      <Note note={note} />
+      <FoodList foodList={foodList} />
     </div>
   );
 }

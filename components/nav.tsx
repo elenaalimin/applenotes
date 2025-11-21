@@ -1,5 +1,3 @@
-import NewNote from "./new-note";
-
 interface NavProps {
   addNewPinnedNote: (slug: string) => void;
   clearSearch: () => void;
@@ -45,12 +43,7 @@ export function Nav({
           </span>
         </button>
       </div>
-      <NewNote
-        addNewPinnedNote={addNewPinnedNote}
-        clearSearch={clearSearch}
-        setSelectedNoteSlug={setSelectedNoteSlug}
-        isMobile={isMobile}
-      />
+      <h1 className="text-sm font-bold">chomped up</h1>
     </div>
   );
 }
