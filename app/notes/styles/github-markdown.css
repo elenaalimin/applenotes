@@ -84,6 +84,27 @@
   color: #e2a727;
 }
 
+/* Mobile bullet points - make marker white */
+.markdown-body .mobile-bullet::marker {
+  color: white !important;
+}
+
+.dark .markdown-body .mobile-bullet::marker {
+  color: white !important;
+}
+
+.markdown-body .mobile-bullet {
+  color: white;
+}
+
+.markdown-body .mobile-bullet span {
+  color: inherit;
+}
+
+.markdown-body .mobile-bullet a {
+  color: #e2a727 !important;
+}
+
 .markdown-body ul.contains-task-list {
   list-style-type: none;
   padding-left: 0;
