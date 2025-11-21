@@ -55,9 +55,7 @@ about this website: thank you and credits to [alana goyal](https://www.alanagoya
 **things in the field i'm inspired by:**
 
 * 📚 setting the table - danny meyer (union square group, eleven madison park, shake shack, the modern, etc.)
-
 * 📹 tastefully yours - kdrama that's not that deep but i thought was fun to watch
-
 * 🔊 acquired (trader joes episode) - podcast on how tj's became what it is today
 
 
