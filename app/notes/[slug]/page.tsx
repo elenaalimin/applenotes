@@ -51,7 +51,7 @@ export default function FoodListPage({
   }
 
   return (
-    <div className="w-full min-h-dvh p-3">
+    <div className="w-full min-h-dvh p-3 sm:p-4 md:p-3 max-w-full overflow-x-hidden">
       <FoodList foodList={foodList} />
     </div>
   );

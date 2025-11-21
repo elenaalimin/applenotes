@@ -14,10 +14,10 @@ export default function FoodListContent({
   canEdit: boolean;
 }) {
   return (
-    <div className="px-2">
-      <div className="h-full text-base md:text-sm">
+    <div className="px-2 sm:px-4 md:px-2">
+      <div className="h-full text-base md:text-sm max-w-full overflow-x-hidden">
         <ReactMarkdown
-          className="markdown-body min-h-dvh"
+          className="markdown-body min-h-dvh break-words"
           remarkPlugins={[remarkGfm]}
           components={{
             a: (props: React.AnchorHTMLAttributes<HTMLAnchorElement>) => (
@@ -25,7 +25,7 @@ export default function FoodListContent({
                 {...props}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-[#e2a727] underline underline-offset-2"
+                className="text-[#e2a727] underline underline-offset-2 break-words"
               >
                 {props.children}
               </a>

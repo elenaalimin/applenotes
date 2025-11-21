@@ -12,9 +12,7 @@ export const foodLists: FoodList[] = [
     title: "about me",
     category: "pinned",
     created_at: today,
-    content: `hey! i'm elena. 
-    
-    thanks for visiting my fun collection of lists!
+    content: `hey! i'm elena. thanks for visiting my fun collection of lists!
 
 **what is chompedup?**
 
@@ -53,7 +51,6 @@ about this website: thank you and credits to [alana goyal](https://www.alanagoya
     category: "pinned",
     created_at: today,
     content: `adding depth to an everyday experience
-
 
 **things in the field i'm inspired by:**
 
@@ -95,8 +92,8 @@ thoughts are subjective, restaurants have off-days, and the opinion of some girl
     category: "pinned",
     created_at: today,
     content: `fav collection of experiences
-    
-    * studio bumi: indonesian communal dining, brooklyn
+
+* studio bumi: indonesian communal dining, brooklyn
 * published on main: one michelin star, vancouver
 * han bat sul lung tang: homey food, los angeles
 * tea at shiloh: interesting experience, los angeles
