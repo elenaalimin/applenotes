@@ -76,6 +76,19 @@
   display: flex;
   align-items: flex-start;
   margin-bottom: 0.5em;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.markdown-body .task-list-item > * {
+  flex: 0 1 auto;
+}
+
+.markdown-body .task-list-item > p {
+  flex: 1;
+  min-width: 0;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 .markdown-body .task-list-item input[type="checkbox"] {
