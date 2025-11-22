@@ -4,6 +4,7 @@ import { cn } from "@/lib/utils";
 import { siteConfig } from "@/config/site";
 import SidebarLayout from "@/components/sidebar-layout";
 import { ThemeProvider } from "@/components/theme-provider";
+import { Analytics } from "@vercel/analytics/next";
 import { foodLists } from "@/lib/food-lists-data";
 import "./globals.css";
 
@@ -62,6 +63,7 @@ export default function RootLayout({
           disableTransitionOnChange
         >
           <SidebarLayout foodLists={lists}>
+            <Analytics />
             {children}
           </SidebarLayout>
         </ThemeProvider>
