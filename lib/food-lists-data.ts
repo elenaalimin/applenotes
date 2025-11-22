@@ -16,11 +16,12 @@ export const foodLists: FoodList[] = [
 
 **what is chompedup?**
 
-* creative outlet for good food (check out [chompeddown](https://www.instagram.com/chompeddown), the villain alter ego)
+* creative outlet for documenting food as shared experiences (check out [chompeddown](https://www.instagram.com/chompeddown), the villain alter ego)
 * started during covid quarantine because i had too many pictures
 * fun fact: started out as a book review account!
 * [instagram](https://www.instagram.com/chompedup), [tiktok](https://www.tiktok.com/@chompedup)(~60K likes)
-* website predecessor [notion page](https://elenaalimin.notion.site/Chomped-Up-16c7cf019680471c8885410d3bb04ceb?source=copy_link) 
+* [website predecessor](https://elenaalimin.notion.site/Chomped-Up-16c7cf019680471c8885410d3bb04ceb?source=copy_link) 
+* contact info: askchompedup@gmail.com
 
 **currently:**
 
@@ -31,17 +32,17 @@ export const foodLists: FoodList[] = [
 **previously:**
 
 * built agents & owned documentation for [salesforce design systems](https://www.lightningdesignsystem.com/2e1ef8501/p/85bd85-lightning-design-system-2) as an [associate product manager intern](https://www.salesforce.com/company/careers/university/associate-program-manager/) 
-* launched visa sponsorship / monetization features by [apm season](https://www.apmseason.com/) before they got acquired by [leland](https://www.joinleland.com/coach/elena-a-1) - which i now coach for
+* launched visa sponsorship / monetization features at [apm season](https://www.apmseason.com/) before they got acquired by [leland](https://www.joinleland.com/coach/elena-a-1) - which i now coach for
 * interned at [pimco](https://www.pimco.com/us/en) and understood how mortgages were traded
 * interned at [intudo](https://intudovc.com/manifesto/) and gained an understanding of indonesia’s startup scene
-* improved customer-facing shipping fee estimates through excel data automation at my [shopee](https://shopee.com/) internship
+* improved customer-facing shipping fee estimates at my [shopee](https://shopee.com/) internship
 * studied economics & entrepreneurship at [ucla](https://www.ucla.edu/), grew so much
 * born and raised in jakarta, indonesia!
 
 
 
 
-about this website: thank you and credits to [alana goyal](https://www.alanagoyal.com/notes/how-this-works) for open-sourcing this apple notes look`,
+about this website: thank you and credits to [alana goyal](https://www.alanagoyal.com/notes/how-this-works) for open-sourcing this apple notes look! this is built with the help of cursor, claude, and vercel.`,
   },
   {
     id: "food-for-thought",
