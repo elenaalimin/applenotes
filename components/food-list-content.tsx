@@ -79,17 +79,16 @@ const renderMarkdown = (text: string) => {
       const displayContent = parseLinks(content);
       
       return (
-        <li 
+        <div 
           key={i} 
-          className="mb-2 mobile-bullet" 
+          className="mb-2 mobile-bullet-item" 
           style={{ 
-            paddingLeft: '2em', 
-            listStyleType: 'disc',
-            color: 'white'
+            paddingLeft: '2em',
+            position: 'relative'
           }}
         >
-          <span style={{ color: 'inherit' }}>{displayContent}</span>
-        </li>
+          <span>{displayContent}</span>
+        </div>
       );
     }
     
