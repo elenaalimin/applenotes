@@ -532,5 +532,33 @@ the want to try list is clearly a lot longer
 - [ ] hock seng/fong sheng
 - [ ] keriting asli siantar pluit/siantar 19`,
   },
+  {
+    id: "top-2025-eats",
+    slug: "top-2025-eats",
+    emoji: "🏆",
+    title: "top 2025 eats",
+    category: "today",
+    created_at: today,
+    content: `top 2025 bites
+
+- [x] [sushi ishikawa (nyc)](https://www.google.com/maps/search/?api=1&query=sushi+ishikawa+new+york+city)
+- [x] [kin khao (sf)](https://www.google.com/maps/search/?api=1&query=kin+khao+san+francisco)
+- [x] [babi guling sam sam merekak (bali)](https://www.google.com/maps/search/?api=1&query=babi+guling+sam+sam+merekak+bali)
+- [x] [san ho won (sf)](https://www.google.com/maps/search/?api=1&query=san+ho+won+san+francisco)
+- [x] [the modern (nyc)](https://www.google.com/maps/search/?api=1&query=the+modern+new+york+city)
+- [x] [casa mono (nyc)](https://www.google.com/maps/search/?api=1&query=casa+mono+new+york+city)
+- [x] [chongqing lao zao (nyc - flushing)](https://www.google.com/maps/search/?api=1&query=chongqing+lao+zao+flushing)
+- [x] [secchu yokota (nyc)](https://www.google.com/maps/search/?api=1&query=secchu+yokota+new+york+city)
+- [x] [le coucou (nyc)](https://www.google.com/maps/search/?api=1&query=le+coucou+new+york+city)
+- [x] [warung mak ben (bali)](https://www.google.com/maps/search/?api=1&query=warung+mak+beng+bali)
+- [x] [hungry thirsty (nyc)](https://www.google.com/maps/search/?api=1&query=hungry+thirsty+nyc)
+
+
+**criteria:**
+
+these are mainly new restaurants i just discovered/revisited after a long time in 2025. you might see that a lot of these restaurants / bites are skewed towards upscale or michelin-starred food establishments, and the basis for that is the fact that most of these restaurants are known for one famous dish that they've perfected over several years versus a good all-around experience (with the exception of hungry thirsty)
+
+a good, nyc-forward year on the upscale side of eating!`,
+  },
 ];
 
