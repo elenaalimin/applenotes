@@ -539,7 +539,7 @@ the want to try list is clearly a lot longer
     title: "top 2025 eats",
     category: "today",
     created_at: today,
-    content: `top 2025 bites
+    content: `a good, nyc-forward year on the upscale side of eating!
 
 - [x] [sushi ishikawa (nyc)](https://www.google.com/maps/search/?api=1&query=sushi+ishikawa+new+york+city)
 - [x] [kin khao (sf)](https://www.google.com/maps/search/?api=1&query=kin+khao+san+francisco)
@@ -556,9 +556,7 @@ the want to try list is clearly a lot longer
 
 **criteria:**
 
-these are mainly new restaurants i just discovered/revisited after a long time in 2025. you might see that a lot of these restaurants / bites are skewed towards upscale or michelin-starred food establishments, and the basis for that is the fact that most of these restaurants are known for one famous dish that they've perfected over several years versus a good all-around experience (with the exception of hungry thirsty)
-
-a good, nyc-forward year on the upscale side of eating!`,
+these are mainly new restaurants i just discovered/revisited after a long time in 2025. you might see that a lot of these restaurants / bites are skewed towards upscale or michelin-starred food establishments, and the basis for that is the fact that most of these restaurants are known for one famous dish that they've perfected over several years versus a good all-around experience (with the exception of hungry thirsty)`,
   },
 ];
 
