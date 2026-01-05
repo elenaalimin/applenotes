@@ -533,8 +533,8 @@ the want to try list is clearly a lot longer
 - [ ] keriting asli siantar pluit/siantar 19`,
   },
   {
-    id: "top-2025-eats",
-    slug: "top-2025-eats",
+    id: "2025",
+    slug: "2025",
     emoji: "🏆",
     title: "top 2025 eats",
     category: "today",
