@@ -245,9 +245,12 @@ thoughts are subjective, restaurants have off-days, and the opinion of some girl
 
 - [x] [tokyo galbi](https://www.google.com/maps/search/?api=1&query=tokyo+galbi+los+angeles) - yazawa but lighter, cheaper
 - [x] [wadaya](https://maps.app.goo.gl/jSMxU8DreZkWha187) - mogu-mogu, recently rebranded to wadaya
-- [x] [killer noodle tsujita](https://www.google.com/maps/search/?api=1&query=killer+noodle+tsujita+los+angeles)  - [x] [heng-heng chicken rice](https://www.google.com/maps/search/?api=1&query=heng-heng+chicken+rice+los+angeles)  - [x] [layla's bagels](https://www.google.com/maps/search/?api=1&query=layla%27s+bagels+los+angeles)  / [jyan isaac bread](https://www.google.com/maps/search/?api=1&query=jyan+isaac+bread+los+angeles)  - lox!
+- [x] [killer noodle tsujita](https://www.google.com/maps/search/?api=1&query=killer+noodle+tsujita+los+angeles)  
+- [x] [heng-heng chicken rice](https://www.google.com/maps/search/?api=1&query=heng-heng+chicken+rice+los+angeles)  
+- [x] [layla's bagels](https://www.google.com/maps/search/?api=1&query=layla%27s+bagels+los+angeles)  / [jyan isaac bread](https://www.google.com/maps/search/?api=1&query=jyan+isaac+bread+los+angeles)  - lox!
 - [x] [colapasta](https://www.google.com/maps/search/?api=1&query=colapasta+los+angeles) - only the lasagna
-- [x] [sichuan impression](https://www.google.com/maps/search/?api=1&query=sichuan+impression+los+angeles)  - [x] [brother's cousins](https://www.google.com/maps/search/?api=1&query=brothers+cousins+los+angeles) - yummy tacos
+- [x] [sichuan impression](https://www.google.com/maps/search/?api=1&query=sichuan+impression+los+angeles)  
+- [x] [brother's cousins](https://www.google.com/maps/search/?api=1&query=brothers+cousins+los+angeles) - yummy tacos
 - [x] [el chato](https://www.google.com/maps/search/?api=1&query=el+chato+los+angeles) - good taco truck
 - [x] [zzamong](https://www.google.com/maps/search/?api=1&query=zzamong+los+angeles) - spicy jajjangmyeon, but do not get tangsuyuk
 - [x] [crispy pork gang](https://www.google.com/maps/search/?api=1&query=crispy+pork+gang+los+angeles) - open 24 hrs, indonesian style + half duck/half pork + morning glory + sunny side up
