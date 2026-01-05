@@ -550,7 +550,7 @@ the want to try list is clearly a lot longer
 - [x] [chongqing lao zao (nyc - flushing)](https://www.google.com/maps/search/?api=1&query=chongqing+lao+zao+flushing)
 - [x] [secchu yokota (nyc)](https://www.google.com/maps/search/?api=1&query=secchu+yokota+new+york+city)
 - [x] [le coucou (nyc)](https://www.google.com/maps/search/?api=1&query=le+coucou+new+york+city)
-- [x] [warung mak ben (bali)](https://www.google.com/maps/search/?api=1&query=warung+mak+beng+bali)
+- [x] [warung mak beng (bali)](https://www.google.com/maps/search/?api=1&query=warung+mak+beng+bali)
 - [x] [hungry thirsty (nyc)](https://www.google.com/maps/search/?api=1&query=hungry+thirsty+nyc)
 
 
