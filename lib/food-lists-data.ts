@@ -26,7 +26,7 @@ export const foodLists: FoodList[] = [
 **currently:**
 
 * studying technology management at [columbia university](https://www.columbia.edu/) 
-* exploring growth & product management roles in tech
+* deploying ai models at tiktok
 * food-related content creation
 
 **previously:**
@@ -56,7 +56,6 @@ about this website: thank you and credits to [alana goyal](https://www.alanagoya
 **things in the field i'm inspired by:**
 
 * 📚 setting the table - danny meyer (union square group, eleven madison park, shake shack, the modern, etc.)
-* 📹 tastefully yours - kdrama that's not that deep but i thought was fun to watch
 * 🔊 acquired (trader joes episode) - podcast on how tj's became what it is today
 
 
@@ -76,7 +75,7 @@ about this website: thank you and credits to [alana goyal](https://www.alanagoya
 * wuminations
 * withbrandonn
 * maristicreative
-* jiro ono (chef)
+* senafarids
 
 
 **disclaimer**
@@ -92,8 +91,8 @@ thoughts are subjective, restaurants have off-days, and the opinion of some girl
     created_at: today,
     content: `fav collection of experiences
 
-* studio bumi: indonesian communal dining, brooklyn
-* published on main: one michelin star, vancouver
+* studio bumi: indonesian communal dining, brooklyn (participant -> front of house volunteer, 10/10 experience)
+* published on main: one michelin star, vancouver (unfortunately not as good anymore.. as of 3/2026)
 * han bat sul lung tang: homey food, los angeles
 * tea at shiloh: interesting experience, los angeles
 * kurasu menteng private session: got to speak with yozo utsuki, founder, jakarta`,
@@ -116,7 +115,7 @@ thoughts are subjective, restaurants have off-days, and the opinion of some girl
 - [x] chinatown food crawl (bring cash) - [mei lai wah](https://www.google.com/maps/search/?api=1&query=mei+lai+wah+new+york+city), [wah fung](https://www.google.com/maps/search/?api=1&query=wah+fung+new+york+city), [wang lao ji museum](https://www.google.com/maps/search/?api=1&query=wang+lao+ji+museum+new+york+city)
 - [x] [adel's famous halal food](https://www.google.com/maps/search/?api=1&query=adel%27s+famous+halal+food+new+york+city)  - use grubhub if you don't wanna wait
 - [x] [prince street pizza](https://www.google.com/maps/search/?api=1&query=prince+street+pizza+new+york+city) - honey vodka slice 
-- [x] [essa bagel](https://www.google.com/maps/search/?api=1&query=essa+bagel+new+york+city) - lox bagel
+- [x] [apollo bagel](https://www.google.com/maps/search/?api=1&query=apollo+bagel+new+york+city) - lox open-faced bagel
 - [x] [caffe panna](https://www.google.com/maps/search/?api=1&query=caffe+panna+new+york+city) - ice cream that rotates flavors daily
 
 
@@ -131,6 +130,7 @@ thoughts are subjective, restaurants have off-days, and the opinion of some girl
 - [x] [paloma bakery](https://www.google.com/maps/search/?api=1&query=paloma+bakery+new+york+city) - imo, shakshuka bread so well done
 - [x] [radio bakery](https://www.google.com/maps/search/?api=1&query=radio+bakery+new+york+city)  / [l'appartement 4f](https://www.google.com/maps/search/?api=1&query=l%27appartement+4f+new+york+city)  - focaccia, seasonal bread / croissant
 - [x] [cha-an](https://www.google.com/maps/search/?api=1&query=cha-an+new+york+city) - everything matcha dessert shop, matcha tiramisu, affogato
+- [x] [theodora](https://maps.app.goo.gl/75PzZ8vu59U8oAFX6) - notoriously hard to get a res, but the olive oil cake and octopus are good 
 
 
 **michelin/baller food:**
@@ -141,6 +141,8 @@ thoughts are subjective, restaurants have off-days, and the opinion of some girl
 - [x] [hyun](https://www.google.com/maps/search/?api=1&query=hyun+new+york+city) - recently increased $$, wagyu a5 ayce
 - [x] [massara](https://www.google.com/maps/search/?api=1&query=massara+new+york+city) - only if you want quality food for tiny portions
 - [x] [le coucou](https://www.google.com/maps/search/?api=1&query=le+coucou+new+york+city) - french ala carte
+- [x] [sushi ishikawa](https://maps.app.goo.gl/fBmHmcKvoicze3f26) - great omakase, super creative, there's an indo waitress here
+- [x] [casa mono](https://maps.app.goo.gl/KKXqVvW37sre9D2r6) - good spanish food, but unseemingly $$$
 
 
 **bars:**
@@ -155,6 +157,7 @@ thoughts are subjective, restaurants have off-days, and the opinion of some girl
 - [x] [mace](https://www.google.com/maps/search/?api=1&query=mace+new+york+city) - walk-in able even on a weekend, solid drinks
 - [x] [sip & guzzle](https://www.google.com/maps/search/?api=1&query=sip+&+guzzle+new+york+city)(sip) - yummy drinks, expensive tho
 - [x] [so&so's neighborhood piano bar](https://www.google.com/maps/search/?api=1&query=so&so%27s+neighborhood+piano+bar+new+york+city) - drinks just ok, but the piano chill vibe!!
+- [x] [schmuck](https://maps.app.goo.gl/4a7fmhFJ4jB9dGEA6) - love the vibe and the drinks are pretty good! 
 
 
 **matcha (it's a tough scene… but it's getting better):**
@@ -194,18 +197,16 @@ thoughts are subjective, restaurants have off-days, and the opinion of some girl
 
 
 **want to try:**
-- [ ] theodora
 - [ ] birds of a feather
 - [ ] ilis (noma's chef)
-- [ ] don angie
-- [ ] sushi ishikawa
+- [ ] tsubame
 - [ ] icca
 - [ ] torrisi
 - [ ] atomix
 - [ ] césar
-- [ ] casa mono
 - [ ] semma
-- [ ] una pizza napoletana`,
+- [ ] una pizza napoletana
+- [ ] myka`,
   },
   {
     id: "los-angeles-list",
